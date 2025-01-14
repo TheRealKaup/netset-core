@@ -4,7 +4,7 @@
 
 ## netset
 
-A future hacking game that involves a fictional networking simulation. The gameplay loop is initialized when a client contacts the player for information Z on entity X: the player converts entity X's known details into data Y, and data Y into information Z. The different game mechanics lets the player obtain new information using known information, in order to reach a certain goal.
+A future hacking game that involves a fictional networking simulation. The gameplay loop is initiated when a client contacts the player for information Z on entity X: the player converts entity X's known details into data Y, and data Y into information Z. The different game mechanics lets the player obtain new information using known information, in order to reach a certain goal.
 
 Although a sandbox, events occurring throughout the game are part of a full and linear story. As of 10 January 2024, the  script is over 12,000 words, and it continues to grow.
 
