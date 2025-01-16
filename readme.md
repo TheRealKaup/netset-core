@@ -1,7 +1,13 @@
-# *netset-core*, the framework for the future [KTech](https://github.com/TheRealKaup/KTech) game *netset*
+# *netset-core*, the framework of the future [KTech](https://github.com/TheRealKaup/KTech) game *netset*
 
+- [Components](#components)
 - [Vision](#vision) - what is this project and what will it be.
 - [Contact Information](#contact-information) - how to contact the developer.
+
+# Components
+
+- [KTech](https://github.com/TheRealKaup/KTech): C++ 2D terminal game engine library.
+- nsnet: netset's (*ns*) computer network (*net*) sandbox/simulation library. Located at [`lib/nsnet/`](https://github.com/TheRealKaup/netset-core/blob/main/lib/nsnet) in this repository.
 
 # Vision
 
