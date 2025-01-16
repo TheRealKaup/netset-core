@@ -1,3 +1,8 @@
+# *netset-core*, the framework for the future [KTech](https://github.com/TheRealKaup/KTech) game *netset*
+
+- [Vision](#vision) - what is this project and what will it be.
+- [Contact Information](#contact-information) - how to contact the developer.
+
 # Vision
 
 ***netset-core*** will be the framework (GUI; game mechanics; libraries...) for the future [KTech](https://github.com/TheRealKaup/KTech) game ***netset***.
@@ -159,3 +164,9 @@ Here's a relevant entry from KTech's FAQ, "[Is KTech Stable?](https://github.com
 ### Name
 
 I haven't settled on the name "netset" (in fact, the game's name in the script is just a placeholder, and not "netset" yet). I think it sounds adequate, and I'm quite fond of the in-game-terminal-command title drop. If the name is so cacophonous that it hinders you from investing, no worries, I'll discard it.
+
+## Contact Information
+
+For legal and business matters, Kaup (Ethan Kaufman), via email:
+
+- ethan.kauf736@gmail.com
