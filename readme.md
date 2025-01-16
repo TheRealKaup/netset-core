@@ -1,6 +1,7 @@
 # *netset-core*, the framework of the future [KTech](https://github.com/TheRealKaup/KTech) game *netset*
 
 - [Components](#components)
+- [Doxygen Documentation (GitHub Pages)](https://therealkaup.github.io/netset-core/)
 - [Vision](#vision) - what is this project and what will it be.
 - [Contact Information](#contact-information) - how to contact the developer.
 
