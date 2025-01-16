@@ -76,7 +76,7 @@ PROJECT_ICON           =
 # left blank the current directory will be used.
 
 # modified
-OUTPUT_DIRECTORY       = ../../build/doxygen/
+OUTPUT_DIRECTORY       = build/doxygen/
 
 # If the CREATE_SUBDIRS tag is set to YES then Doxygen will create up to 4096
 # sub-directories (in 2 levels) under the output directory of each output format
@@ -994,7 +994,7 @@ WARN_LOGFILE           =
 # Note: If this tag is empty the current directory is searched.
 
 # modified
-INPUT                  = ../../lib/ mainpage.md
+INPUT                  = lib/ documentation/doxygen/mainpage.md
 
 # This tag can be used to specify the character encoding of the source files
 # that Doxygen parses. Internally Doxygen uses the UTF-8 encoding. Doxygen uses
@@ -1164,7 +1164,7 @@ FILTER_SOURCE_PATTERNS =
 # and want to reuse the introduction page also for the Doxygen output.
 
 # modified
-USE_MDFILE_AS_MAINPAGE = mainpage.md
+USE_MDFILE_AS_MAINPAGE = documentation/doxygen/mainpage.md
 
 # If the IMPLICIT_DIR_DOCS tag is set to YES, any README.md file found in sub-
 # directories of the project's root, is used as the documentation for that sub-
