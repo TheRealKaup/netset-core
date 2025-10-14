@@ -36,7 +36,7 @@ I will not share any details of the plot itself, but parts of its theme are esse
 
 ### Music
 
-[Mood board (YouTube music playlist)](https://music.youtube.com/playlist?list=PLjtIzTJvU_PcQpNQY9c4hGIJEMCLM6rcv&si=f33JQMsYLVzl50Z_).
+[Mood board (YouTube Music playlist)](https://music.youtube.com/playlist?list=PLjtIzTJvU_PcQpNQY9c4hGIJEMCLM6rcv&si=f33JQMsYLVzl50Z). Mostly consists of tracks from other games, Flying Lotus, Clams Casino, and more.
 
 ## netset-core
 
