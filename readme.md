@@ -34,6 +34,10 @@ I will not share any details of the plot itself, but parts of its theme are esse
 >
 > The player is a hacker offering their services at #dnmw.
 
+### Music
+
+[Mood board (YouTube music playlist)](https://music.youtube.com/playlist?list=PLjtIzTJvU_PcQpNQY9c4hGIJEMCLM6rcv&si=f33JQMsYLVzl50Z_).
+
 ## netset-core
 
 Includes everything that netset will require, except the story implementation. Opening this codebase now is good for many reasons:
